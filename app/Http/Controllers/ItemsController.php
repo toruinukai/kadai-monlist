@@ -1,4 +1,4 @@
- use \App\Item;
+  use \App\Item;
 
   class ItemsController extends Controller
   {
